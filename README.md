@@ -4,7 +4,7 @@ This is a Streamlit app that allows users to upload a CSV file containing a tabl
 
 ## Usage
 
-1. Install the required dependencies by running `pip install streamlit pandas openai`.
+1. Install the required dependencies by running `pip install -r requirements.txt`.
 2. Set up your OpenAI API key in the code by replacing `'YOUR_OPENAI_API_KEY'` with your actual API key.
 3. Run the app using the command `streamlit run table_visualizer.py`.
 4. Open the provided URL in your web browser.
